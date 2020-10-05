@@ -70,15 +70,27 @@ body{
   background-color: #6778a0;
   width: 650px;
 }
-div{
-
-}
+  #tabled{
+    width: 250px;
+    font-size: 18px;
+    color: #ffff;
+    background-color: #6778a0;
+    margin-left: 100;
+  }
 #mtitle{
   width: 250px;
   font-size: 40px;
   color: #ffff;
   background-color: #6778a0;
   margin-left: 100;
+}
+#table1{
+  border: #6778a0;
+}
+#mainpic{
+  z-index: -5;
+  float: right;
+  margin: 10 150;
 }
 #otitle{
   width: 250px;
@@ -89,6 +101,35 @@ div{
 }
 #stitle{
   width: 200px;
+  font-size: 40px;
+  color: #ffff;
+  background-color: #6778a0;
+  margin-left: 100;
+}
+#p2{
+  color: #ffff;
+  background-color: #6778a0;
+  font-size: 40px;
+  width: 850px;
+  margin-left: 50px;
+}
+#p3{
+  color: #ffff;
+  background-color: #6778a0;
+  font-size: 25px;
+  width: 500px;
+  float: right;
+  margin-right: 60px;
+}
+#ctitle{
+  width: 300px;
+  font-size: 40px;
+  color: #ffff;
+  background-color: #6778a0;
+  margin-left: 100;
+}
+#cattitle{
+  width: 500px;
   font-size: 40px;
   color: #ffff;
   background-color: #6778a0;
